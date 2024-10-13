@@ -1,5 +1,10 @@
 # React + TypeScript + Vite
 
+<!-- Creating a form using 4 fields (name, email, phone, gender(dropdown).
+4 fields should be validated
+Progress Bar has to appear with %(percentage) based on a valid field filled. Let's treat every field as 25% -->
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
